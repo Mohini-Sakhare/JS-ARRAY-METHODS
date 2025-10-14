@@ -16,3 +16,6 @@ The pop() method is used to remove elements from the end of an array.
 let a = [20, 30, 40, 50];
 a.pop();
 console.log(a);
+
+output:
+[ 20, 30, 40 ]
