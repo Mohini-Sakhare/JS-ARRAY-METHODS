@@ -26,3 +26,6 @@ The unshift() method is used to add elements to the front of an Array.
 let a = [20, 30, 40];
 a.unshift(10, 20);
 console.log(a);
+
+output:
+[ 10, 20, 20, 30, 40 ]
