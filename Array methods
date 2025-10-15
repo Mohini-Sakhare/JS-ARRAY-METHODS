@@ -30,6 +30,7 @@ console.log(a);
 output:
 [ 10, 20, 20, 30, 40 ]
 
+
 // 4. shift() :--
 The shift() method is used to remove elements from the beginning of an array 
 let a = [20, 30, 40, 50];
