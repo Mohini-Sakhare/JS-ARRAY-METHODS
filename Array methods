@@ -103,3 +103,5 @@ function geeks(tot, num) {
 }
 console.log(sub);
 
+output:
+3
