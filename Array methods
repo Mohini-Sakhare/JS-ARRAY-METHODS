@@ -102,3 +102,4 @@ function geeks(tot, num) {
     return tot - num;
 }
 console.log(sub);
+
