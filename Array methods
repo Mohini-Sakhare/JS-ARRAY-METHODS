@@ -124,3 +124,8 @@ const res = a.values();
 for (const value of res) {
     console.log(value);
 }
+
+output:-
+Apple 
+Banana 
+Cherry 
