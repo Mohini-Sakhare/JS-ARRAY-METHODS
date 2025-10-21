@@ -115,3 +115,12 @@ console.log(a);
 
 output:-
 5,4,3,2,1
+
+12. values() :--
+The values() method returns a new Array Iterator object that contains the values for each index in the array.
+const a = ["Apple", "Banana", "Cherry"];
+const res = a.values();
+
+for (const value of res) {
+    console.log(value);
+}
