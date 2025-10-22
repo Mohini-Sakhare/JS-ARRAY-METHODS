@@ -155,3 +155,9 @@ let a3 = [17, 18, 19];
 
 let newArr = a1.concat(a2, a3);
 console.log(newArr);
+
+output:
+[
+  11, 12, 13, 14, 15,
+  16, 17, 18, 19
+]
