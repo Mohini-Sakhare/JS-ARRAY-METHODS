@@ -161,3 +161,10 @@ output:
   11, 12, 13, 14, 15,
   16, 17, 18, 19
 ]
+
+
+15. join() :--
+This join() method creates and returns a new string by concatenating all elements of an array. It uses a specified separator between each element in the resulting string.
+
+let a = ["HTML", "CSS", "JS", "React"];
+console.log(a.join('|'));
