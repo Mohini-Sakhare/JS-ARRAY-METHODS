@@ -168,3 +168,6 @@ This join() method creates and returns a new string by concatenating all element
 
 let a = ["HTML", "CSS", "JS", "React"];
 console.log(a.join('|'));
+
+output:--
+HTML|CSS|JS|React
